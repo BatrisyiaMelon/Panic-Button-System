@@ -1,0 +1,82 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Apr 25 17:48:23 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x000356
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x00036d      
+            860 out of 33048 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   AGAIN1   0x000170    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   AGAIN2   0x000174    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   BUZZER   0x000110    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                    CHECK   0x000024    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   CHECK1   0x00002c    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   CHECK2   0x000034    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                    DELAY   0x00016c    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                 DIAL_911   0x000090    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                  DISABLE   0x0000d2    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                EMERGENCY   0x00003c    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                      OFF   0x000088    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   OFFLED   0x000146    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_1   0x00013e    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_9   0x000138    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_A   0x000128    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_B   0x000160    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_C   0x00011e    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_D   0x00014a    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_E   0x000164    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_I   0x000150    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_L   0x00012e    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_S   0x000158    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                    SIREN   0x000064    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                    start   0x00001a    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                    CHECK   0x000024    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   CHECK1   0x00002c    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   CHECK2   0x000034    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                EMERGENCY   0x00003c    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                    SIREN   0x000064    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                      OFF   0x000088    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                 DIAL_911   0x000090    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                  DISABLE   0x0000d2    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   BUZZER   0x000110    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_C   0x00011e    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_A   0x000128    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_L   0x00012e    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_9   0x000138    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_1   0x00013e    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   OFFLED   0x000146    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_D   0x00014a    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_I   0x000150    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_S   0x000158    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_B   0x000160    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   SHOW_E   0x000164    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                    DELAY   0x00016c    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   AGAIN1   0x000170    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+                   AGAIN2   0x000174    program     static C:\Users\HPuser\Desktop\USB FOLDER (IMPORTANT)\BAT_FINAL_MICRO\Final Micro.asm
+
+
